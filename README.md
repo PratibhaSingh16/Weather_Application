@@ -1,4 +1,4 @@
-# Weather Application
+# :satellite: :sun_with_face: :full_moon: Weather Application :full_moon: :sun_with_face: :satellite:
 ---
 ![](https://wallpaperaccess.com/full/1540001.jpg)
 ---
@@ -12,3 +12,11 @@
 
 ![1](https://user-images.githubusercontent.com/77543839/111574628-3b486d80-8783-11eb-90a3-b6a028541da0.png)
 ---
+
+![2](https://user-images.githubusercontent.com/77543839/111574631-3d123100-8783-11eb-8075-270c76ac43d3.png)
+---
+
+![3](https://user-images.githubusercontent.com/77543839/111574636-3e435e00-8783-11eb-9710-14555fd11b02.png)
+
+## TRY THIS OUT YOURSELF!
+
